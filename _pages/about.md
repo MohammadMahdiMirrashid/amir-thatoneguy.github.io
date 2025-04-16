@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I like applied probability and statistics.
+subtitle: "I"
 
 profile:
   align: right
