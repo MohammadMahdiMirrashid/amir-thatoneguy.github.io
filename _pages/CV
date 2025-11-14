@@ -1,1 +1,7 @@
-
+---
+layout: page
+permalink: /repositories/
+title: CV
+nav_order: 5
+nav: true
+---
